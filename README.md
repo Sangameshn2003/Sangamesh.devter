@@ -1,4 +1,4 @@
-# Sangamesh.devter
+# Sangamesh.devtern
 1. Dataset Preparation:
 Start by gathering a dataset of labeled news articles, where each article is labeled as either real or fake. You can find such datasets on platforms like Kaggle or use libraries like 
 2. Preprocessing the Data:
